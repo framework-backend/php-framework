@@ -1,0 +1,7 @@
+Commencez
+#########
+
+.. toctree::
+
+    installation
+    configuration
